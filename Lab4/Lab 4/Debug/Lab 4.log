@@ -1,0 +1,11 @@
+﻿  Lab 4.cpp
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 4\Lab 4\Lab 4.cpp(15,27): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 4\Lab 4\Lab 4.cpp(16,27): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 4\Lab 4\Lab 4.cpp(48,42): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 4\Lab 4\Lab 4.cpp(49,43): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 4\Lab 4\Lab 4.cpp(50,39): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 4\Lab 4\Lab 4.cpp(54,51): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 4\Lab 4\Lab 4.cpp(55,49): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 4\Lab 4\Lab 4.cpp(57,55): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 4\Lab 4\Lab 4.cpp(58,53): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+  Lab 4.vcxproj -> C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 4\Lab 4\Debug\Lab 4.exe

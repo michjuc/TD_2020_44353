@@ -1,0 +1,16 @@
+﻿  Lab5.cpp
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 5\Lab5\Lab5.cpp(68,41): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 5\Lab5\Lab5.cpp(69,37): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 5\Lab5\Lab5.cpp(70,37): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 5\Lab5\Lab5.cpp(71,37): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 5\Lab5\Lab5.cpp(72,38): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 5\Lab5\Lab5.cpp(73,38): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 5\Lab5\Lab5.cpp(74,38): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 5\Lab5\Lab5.cpp(75,39): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 5\Lab5\Lab5.cpp(76,35): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 5\Lab5\Lab5.cpp(77,35): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 5\Lab5\Lab5.cpp(78,35): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 5\Lab5\Lab5.cpp(87,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 5\Lab5\Lab5.cpp(99,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 5\Lab5\Lab5.cpp(111,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Lab5.vcxproj -> C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 5\Lab5\Debug\Lab5.exe

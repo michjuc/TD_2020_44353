@@ -1,0 +1,14 @@
+﻿  Lab6.cpp
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 6\Lab6\Lab6.cpp(28,29): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 6\Lab6\Lab6.cpp(31,26): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 6\Lab6\Lab6.cpp(32,26): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 6\Lab6\Lab6.cpp(33,33): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 6\Lab6\Lab6.cpp(40,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 6\Lab6\Lab6.cpp(52,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 6\Lab6\Lab6.cpp(64,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 6\Lab6\Lab6.cpp(78,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 6\Lab6\Lab6.cpp(82,15): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 6\Lab6\Lab6.cpp(135,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 6\Lab6\Lab6.cpp(156,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 6\Lab6\Lab6.cpp(167): warning C4715: "Signal::decode_Manchester”: niewszystkie ścieżki kodu zwracają wartość
+  Lab6.vcxproj -> C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 6\Lab6\Debug\Lab6.exe

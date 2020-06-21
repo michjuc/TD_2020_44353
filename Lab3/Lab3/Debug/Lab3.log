@@ -1,0 +1,7 @@
+﻿  Lab3.cpp
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 3\Lab3\Lab3.cpp(18,27): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 3\Lab3\Lab3.cpp(19,27): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 3\Lab3\Lab3.cpp(45,38): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 3\Lab3\Lab3.cpp(47,41): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 3\Lab3\Lab3.cpp(48,39): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+  Lab3.vcxproj -> C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 3\Lab3\Debug\Lab3.exe

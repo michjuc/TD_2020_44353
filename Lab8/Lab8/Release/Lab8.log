@@ -1,0 +1,17 @@
+﻿  Lab8.cpp
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 8\Lab8\Lab8.cpp(18,27): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 8\Lab8\Lab8.cpp(19,27): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 8\Lab8\Lab8.cpp(123,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 8\Lab8\Lab8.cpp(138,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 8\Lab8\Lab8.cpp(146,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 8\Lab8\Lab8.cpp(160,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 8\Lab8\Lab8.cpp(222,1): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 8\Lab8\Lab8.cpp(299,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 8\Lab8\Lab8.cpp(395,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 8\Lab8\Lab8.cpp(511,11): warning C4244: "=": konwersja z "const double" do "int", możliwa utrata danych
+C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 8\Lab8\Lab8.cpp(516,11): warning C4244: "=": konwersja z "const double" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 261 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Lab8.vcxproj -> C:\Users\Michał\Desktop\TD\TD_2020_44353\Lab 8\Lab8\Release\Lab8.exe
